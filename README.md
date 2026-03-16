@@ -59,6 +59,9 @@ By default, your device should look something like this:
 
 **Note:** This is a reference design only, so in your variant the part layout may be different.
 
+# Libraries
+**Attention:** To use this code, you should install **all libraries** from the `libraries` folder. Otherwise, the code won't work.
+
 # Main variables
 
 This is the only place where you should change any settings.
