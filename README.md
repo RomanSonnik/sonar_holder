@@ -41,7 +41,8 @@ It can be changed to use only batteries, but it may cause possible MCU instabili
 If you want to use the second variant, here is the schematic:
 
 
-<img width="1181" height="797" alt="image" src="https://github.com/user-attachments/assets/fe4eadb4-b63f-47b1-81bf-21bc068e8ade" />
+<img width="1209" height="827" alt="image" src="https://github.com/user-attachments/assets/691593bb-5a66-49a5-9edb-a78c62f72488" />
+
 
 # Instructions
 
