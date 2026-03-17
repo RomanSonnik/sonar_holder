@@ -32,7 +32,7 @@ As it is under the MIT license, we took the original code and modified it for ou
 # Shematics
 
 
-<img width="1191" height="828" alt="image" src="https://github.com/user-attachments/assets/1f6b36aa-93d6-46bd-82c9-966150503bf2" />
+<img width="1179" height="812" alt="image" src="https://github.com/user-attachments/assets/9cf92b0e-d56d-42d0-944a-eeea0283a5d8" />
 
 
 The provided schematic shows how to assemble all parts together.
@@ -42,8 +42,7 @@ It can be changed to use only batteries, but it may cause possible MCU instabili
 If you want to use the second variant, here is the schematic:
 
 
-<img width="1201" height="817" alt="image" src="https://github.com/user-attachments/assets/304adf31-66ab-456f-aa5c-2399981ccb7d" />
-
+<img width="1178" height="808" alt="image" src="https://github.com/user-attachments/assets/8d68c2ef-4544-468a-94c5-15e37d4ae9c4" />
 
 
 # Instructions
