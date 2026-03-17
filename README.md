@@ -51,10 +51,12 @@ Other parts are mainly made for aesthetics and can be replaced with simpler cons
 By default, your device should look something like this:
 
 
-<img width="1280" height="1022" alt="image" src="https://github.com/user-attachments/assets/d5b31ae6-e94d-43d3-b381-cca5dbd11c8f" />
+<img width="1191" height="828" alt="image" src="https://github.com/user-attachments/assets/be8bd3ff-bc75-4550-87d1-7a9e761f467e" />
 
 
-<img width="1151" height="1280" alt="image" src="https://github.com/user-attachments/assets/10ac3cef-c4d1-49e9-90bb-d19e60157e4d" />
+
+<img width="1201" height="817" alt="image" src="https://github.com/user-attachments/assets/934f2be0-7821-4055-bd6e-b5de7d3e1db8" />
+
 
 
 
